@@ -3,6 +3,9 @@
 
 This is a mini-project that simulates a simple banking system using Python. It demonstrates key concepts such as object-oriented programming, modular code design, and file structuring in Python.
 
+## 🚀 Live App
+👉 [Click here to try the app]([https://forestfiredetectionusingsatelliteimagery-devanshusawarkar.streamlit.app/](https://bankingsystemusingpython-devanshusawarkar.streamlit.app/))
+
 ## 📁 Project Structure
 
 ```
