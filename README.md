@@ -44,9 +44,13 @@ cd Banking_System_Using_Python
 ```
 
 3. Run the application:
-
+- For running in terminal
 ```bash
 python main.py
+```
+- For running using Streamlit UI
+```bash
+streamlit run app.py
 ```
 
 ## 📚 Learning Objectives
