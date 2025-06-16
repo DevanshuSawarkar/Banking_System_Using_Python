@@ -8,7 +8,9 @@ This is a mini-project that simulates a simple banking system using Python. It d
 ```
 Banking_System_Using_Python/
 │
-├── main.py                        # Entry point to run the banking system
+├── app.py                         # Entry point to run the banking system using Streamlit UI
+├── requirements.txt               # dependencies
+├── main.py                        # Entry point to run the banking system on terminal
 └── Banking/
     ├── __init__.py               # Package initializer
     ├── account.py                # Handles account creation and account-related operations
@@ -43,8 +45,13 @@ git clone https://github.com/yourusername/Banking_System_Using_Python.git
 cd Banking_System_Using_Python
 ```
 
-3. Run the application:
-- For running in terminal
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the application:
+- For running in the terminal
 ```bash
 python main.py
 ```
