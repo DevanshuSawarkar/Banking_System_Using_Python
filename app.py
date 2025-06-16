@@ -58,5 +58,5 @@ def main():
     elif option == 'Exit':
         st.success("Thank you for using the Banking System. Goodbye!")
 
-if _name_ == "_main_":
+if _name_ == "_app_":
     main()
